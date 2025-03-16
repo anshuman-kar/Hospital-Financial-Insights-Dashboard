@@ -9,7 +9,7 @@ Managing hospital finances efficiently is crucial for sustainability and growth.
 
 ---
 ## 📊 Key Features
-![Dashboard Preview]([https://github.com/your-repo/Hospital-Financial-Insights/blob/main/Dashboard.png](https://github.com/anshuman-kar/Hospital-Financial-Insights-Dashboard/blob/main/Screenshot%202025-03-16%20192100.png))
+![Dashboard Preview](https://github.com/anshuman-kar/Hospital-Financial-Insights-Dashboard/blob/main/Screenshot%202025-03-16%20192100.png)
 - 🔍 **Bed Occupancy Trends** – Track private, general, and ICU bed usage.
 - 💰 **Billing Insights** – Analyze revenue trends and insurance coverage.
 - 🏥 **Diagnosis Distribution** – Identify common medical conditions.
@@ -48,18 +48,3 @@ The dataset includes:
 ✅ **ICU utilization** trends influence resource planning.
 ✅ **Billing discrepancies** reveal insurance gaps.
 ✅ **Top revenue-generating departments** identified.
-
----
-## 🚀 Get Started
-1️⃣ Clone this repository: `git clone https://github.com/your-repo/Hospital-Financial-Insights.git`
-2️⃣ Open the `.pbix` file in Power BI.
-3️⃣ Interact with the dashboard and uncover insights.
-
-> *Next Steps: Implement AI-powered predictive analytics for financial forecasting!*
-
----
-## 🤝 Contributors
-👨‍💻 Your Name | Your Organization | 📧 Contact Info
-
-🛠 Contributions & feedback are always welcome! 🚀
-
