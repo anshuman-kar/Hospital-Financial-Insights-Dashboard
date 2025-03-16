@@ -9,19 +9,14 @@ Managing hospital finances efficiently is crucial for sustainability and growth.
 
 ---
 ## 📊 Key Features
-![Dashboard Preview](https://github.com/your-repo/Hospital-Financial-Insights/blob/main/Dashboard.png)
+![Dashboard Preview]([https://github.com/your-repo/Hospital-Financial-Insights/blob/main/Dashboard.png](https://github.com/anshuman-kar/Hospital-Financial-Insights-Dashboard/blob/main/Screenshot%202025-03-16%20192100.png))
 - 🔍 **Bed Occupancy Trends** – Track private, general, and ICU bed usage.
 - 💰 **Billing Insights** – Analyze revenue trends and insurance coverage.
 - 🏥 **Diagnosis Distribution** – Identify common medical conditions.
 - 👨‍⚕️ **Doctor Feedback Metrics** – Measure patient satisfaction per doctor.
 - 📈 **Financial Comparison** – Compare insurance-covered amounts vs. actual billing.
 
----
-## 🛠 Data Model
-🖼️ *Click to view detailed schema:*
-<img src="https://github.com/your-repo/Hospital-Financial-Insights/blob/main/Data_Model.png" alt="Data Model" width="500"/>
 
----
 ## 📂 Dataset Overview
 The dataset includes:
 - 🏷 **Patient ID** – Unique identifier for each patient.
